@@ -1,6 +1,6 @@
 #!/usr/bin/env python3 
 #Peter Lindee
-#Pair-Programmed with Andres Barrera
+
 import urllib.request
 import json
 import time
