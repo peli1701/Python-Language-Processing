@@ -1,18 +1,5 @@
 #Peter Lindee
-#Assignment 9; Parts 1 - 5
-#Section 801 -- 8:00 AM Thursdays
-#Recitation Leader: Bu Sun Kim
-#_________________________________
 
-
-#Part 1:
-
-#the compute_census function takes in two parameters, a list of rates, and the current
-#population. The list of rates includes a birth rate, death rate, and immigration rate.
-#These rates are used with the current popultion in order to calculate the future population
-#in a year. If there are 3153600 seconds in a year, then the births in that year are seconds 
-#divided by the birth_rate given. We can add these calculations to the current population to 
-#see how it changes in a year. 
 def compute_census(list_of_rates, current_population):
 	seconds = 31536000
 	birth_rate = list_of_rates[0]
