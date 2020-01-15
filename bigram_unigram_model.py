@@ -1,10 +1,9 @@
 #!/usr/bin/python
-#	Peter Lindee - 
-#   104757978
-#	CSCI 3832 - HW#2
-# 	** Sources ** :
-# 	- unigramModel() - lecture notes
-# 	- bigramModel()  - rstudio-pubs-static.s3.amazonaws.com/115676_ab6bb49748c742b88127e8b5ce3e1298.html, github.com/karanmotani/bigram-probabilities
+# Peter Lindee - 
+#  
+#	
+# ** Sources ** :
+# - bigramModel()  - rstudio-pubs-static.s3.amazonaws.com/115676_ab6bb49748c742b88127e8b5ce3e1298.html, github.com/karanmotani/bigram-probabilities
 
 from collections import Counter 
 
