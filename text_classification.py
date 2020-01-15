@@ -1,7 +1,7 @@
-#Peter Lindee : 104757978
-#CSCI 3832 - Natural Language Processing
-#James Martin
-#HW 3 - Text Classification
+#Peter Lindee :
+
+# Text Classifier
+
 
 from collections import Counter
 import math
